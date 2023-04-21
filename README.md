@@ -1,4 +1,4 @@
-# Lesson-10-Challenge-Team-Profile-Generator
+# Tech-Team-Profile-Generator
 
 ## Description
 ```
